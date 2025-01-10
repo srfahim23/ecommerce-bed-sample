@@ -18,15 +18,15 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center">
                 <Phone className="w-5 h-5 mr-2" />
-                <span>+44 (0) 20 7123 4567</span>
+                <span>+88 (0) 16 17026858</span>
               </div>
               <div className="flex items-center">
                 <Mail className="w-5 h-5 mr-2" />
-                <span>info@luxurybedco.com</span>
+                <span>srfahim23@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-5 h-5 mr-2" />
-                <span>123 Luxury Lane, London</span>
+                <span>6720 Dhaka, Bangladesh</span>
               </div>
             </div>
           </div>
